@@ -11,3 +11,5 @@
 ## Signed Commit Desktop CLI
 
 ## Signed Commit Desktop VSCode
+
+## Signed Commit Desktop WSL CLI
